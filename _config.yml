@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: Delay-Tolerant Blogging
+description: "Delay and disruption tolerant networking, theONE simulator and other topics"
+url: "http://www.julianofischernaves.me"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Juliano Fischer Naves"
+  email: "julianofischer@gmail.com"
+  url: "http://www.julianofischernaves.me"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
