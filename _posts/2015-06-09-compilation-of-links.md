@@ -2,7 +2,7 @@
 title: Compilation of Links on theONE
 ---
 
-Hello everyone! 
+Hello, everyone! 
 As my first post, I would like to share with you a collection of links about theONE simulator.
 They deal with a lot of entry-level and mid doubts. I intend to update this post frequently, adding new links and removing broken links.
 
@@ -18,8 +18,6 @@ If you have a good link to share, please, let me know in the comments.
 - [Sahil's website](https://sites.google.com/site/sahilgupta221231/file-cabinet)
 - [theONE Knowledge Base](https://theonekb-barunsaha.rhcloud.com/)
 
-I would like to thank all authors and highlight the great work done by Barun Saha on his website and searching tool (theONE Knowledge Base), which inspired me to create this blog.
-
-
-Thank you for your attention,
+I would like to thank all authors and highlight the great work done by Barun Saha on his website and searching tool (theONE Knowledge Base), which inspired me to create this blog. Thank you for your attention!
+	
 Juliano.
