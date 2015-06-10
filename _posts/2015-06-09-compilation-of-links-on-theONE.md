@@ -11,6 +11,7 @@ If you have a good link to share, please, let me know in the comments.
 - [Official website](http://www.netlab.tkk.fi/tutkimus/dtn/theone/)
 - [Questions and Answers](http://www.netlab.tkk.fi/tutkimus/dtn/theone/qa.html)
 - [JavaDoc](http://www.netlab.tkk.fi/tutkimus/dtn/theone/javadoc_v141/)
+- [Mailing list](https://www.netlab.tkk.fi/mailman/listinfo/theone)
 - [Metrics Description](http://agoes.web.id/metric-description-from-simulator/)
 - [Barun's website](http://delay-tolerant-networks.blogspot.com.br/)
 - [Margalho's website](http://www.margalho.pro.br/subsites/theone.html)

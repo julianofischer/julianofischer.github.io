@@ -36,3 +36,11 @@ reverse: false
 
 #allowing comments
 comments: true
+
+
+authors:
+    juliano:
+        display_name: Juliano
+        gravatar:
+        email: julianofischer@gmail.com
+        github: julianofischer
