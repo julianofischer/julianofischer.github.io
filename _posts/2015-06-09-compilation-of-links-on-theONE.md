@@ -1,5 +1,6 @@
 ---
 title: Compilation of Links on theONE
+author: juliano
 ---
 
 Hello, everyone! 
@@ -20,5 +21,5 @@ If you have a good link to share, please, let me know in the comments.
 - [theONE Knowledge Base](https://theonekb-barunsaha.rhcloud.com/)
 
 I would like to thank all authors and highlight the great work done by Barun Saha on his website and searching tool (theONE Knowledge Base), which inspired me to create this blog. Thank you for your attention!
-	
+
 Juliano.
