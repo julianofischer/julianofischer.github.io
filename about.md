@@ -4,7 +4,8 @@ title: About
 ---
 ## About
 
-This blog is intended to share information about Delay-Tolerant Networking and [theONE](http://www.netlab.tkk.fi/tutkimus/dtn/theone/) simulator.
+This blog is intended to share information about Delay and Disruption Tolerant Networking and [Opportunistic Network Simulator](http://www.netlab.tkk.fi/tutkimus/dtn/theone/)(theONE).
+I also intend to talk about my finds using Jekyll, Flask, Django and others.
 
 I ask the readers in advance to excuse me about possible grammar errors. I hope to improve my English skill.
 
