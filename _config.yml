@@ -44,3 +44,6 @@ authors:
         gravatar:
         email: julianofischer@gmail.com
         github: julianofischer
+
+gems:
+    - jemoji
