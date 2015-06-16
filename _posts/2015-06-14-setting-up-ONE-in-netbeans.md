@@ -18,7 +18,7 @@ Now you have to add the source code. Click *Add Folder* and navigate to the simu
 
 ![Project Configuration](/assets/project_config_2_netbeans.png)
 
-The following message should appear:
+The following message may appear:
 
 ![Project Configuration](/assets/netbeans_message.png)
 
