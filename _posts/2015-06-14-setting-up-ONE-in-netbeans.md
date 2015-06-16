@@ -14,7 +14,7 @@ Click *Next*. Put your project name at the field *Project Name* then click *Next
 
 ![Project Configuration](/assets/project_config_netbeans.png)
 
-Now you have to add the source code 
+Now you have to add the source code. Click *Add Folder* and navigate to the simulator root folder, then select it.
 
 ![Project Configuration](/assets/project_config_2_netbeans.png)
 
