@@ -30,5 +30,10 @@ At running the project (Ctrl + F11), we will need to select the default class: j
 
 With the above conditions, ONE will start using GUI and the ***default.txt*** settings. Obviously, you can rename your scenario configuration name to "default.txt" in order to test your configurations. However, this can become boring and not always you will want to run ONE in GUI mode but in [batch mode](on-batch-simulations/). However, *that is a topic for another post*.
 
+If for some reason you are not being prompted to select the main class, you can follow this procedure:
+
+Right click on project name > properties > Run/Debug Settings > Click button "New" > select "Java Application" > click "OK" button
+Then, on tab "Main" you must enter "core.DTNSim" in the field "Main class"
+
 Thank you for your attention.
 
