@@ -13,3 +13,10 @@ If you have free time, I would appreciate receive feedback at my [github reposit
 
 Powered by: 
 [Emerald](https://github.com/KingFelix/emerald/), [Jekyll](https://jekyllrb.com) and [Github Pages](https://pages.github.com).
+
+<!---
+## About me
+<div>
+</div>
+![Linkedin](/img/linkedin.svg)
+-->
