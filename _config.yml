@@ -47,3 +47,4 @@ authors:
 
 gems:
     - jemoji
+    - jekyll-sitemap
