@@ -5,11 +5,24 @@ layout: default
 	<h2>{{ page.title }}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
+            {% if adsense %}
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- julianofischernaves.me -->
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-client="ca-pub-3911064379936498"
+                    data-ad-slot="4846647713"
+                    data-ad-format="auto"></ins>
+                <script>
+               (adsbygoogle = window.adsbygoogle || []).push({});
+               </script>
+            {% endif %}
 
 		{{ content }}
 		
 	</div>
 </article>
+
 
 {% assign author = site.data.authors[page.author] %}
 {% if author %}

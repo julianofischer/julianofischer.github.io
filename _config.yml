@@ -1,11 +1,13 @@
 # Site settings
 title: Delay-Tolerant Blogging
-description: "Delay and disruption tolerant networking, theONE simulator and other topics"
+description: "Delay and disruption tolerant networks, theONE simulator and other topics"
 url: "http://www.julianofischernaves.me"
 author:
   name: "Juliano Fischer Naves"
   email: "julianofischer@gmail.com"
   url: "http://www.julianofischernaves.me"
+
+adsense: yes
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
