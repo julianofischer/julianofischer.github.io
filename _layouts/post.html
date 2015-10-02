@@ -5,7 +5,7 @@ layout: default
 	<h2>{{ page.title }}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
 	<div class="content">
-            {% if page.adsense %}
+            {% if site.adsense %}
                 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
                 <!-- julianofischernaves.me -->
                 <ins class="adsbygoogle"
