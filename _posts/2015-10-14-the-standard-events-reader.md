@@ -5,7 +5,7 @@ author: juliano
 
 Hi all, how are you?
 
-The [last post](/converting-rollernet-to-one-standard-events-reader) was dedicated to show a way to convert the raw data provided by [Rollernet dataset](http://crawdad.org/upmc/rollernet/20090202/) into a format which can be read by [ONE simulator](https://www.netlab.tkk.fi/tutkimus/dtn/theone/). In this post, this standard format will be shown in more detail.
+The [latest post](/converting-rollernet-to-one-standard-events-reader) was dedicated to show a way to convert the raw data provided by [Rollernet dataset](http://crawdad.org/upmc/rollernet/20090202/) into a format which can be read by [ONE simulator](https://www.netlab.tkk.fi/tutkimus/dtn/theone/). In this post, this standard format will be shown in more detail.
 
 ONE simulator provides a class which read external events for a standard format. This class is named **StandardEventsReader** and is located into *input* package. According to [documentation](https://www.netlab.tkk.fi/tutkimus/dtn/theone/javadoc/input/StandardEventsReader.html) the syntax for this standard format has the following general syntax:
 
