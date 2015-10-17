@@ -1,5 +1,5 @@
 ---
-title: Converting Rollernet to ONE Standard Events Reader
+title: Converting Rollernet to ONE's Standard Events Reader Format
 author: juliano
 ---
 
