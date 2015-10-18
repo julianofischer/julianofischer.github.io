@@ -7,11 +7,11 @@ Hi all, how are you?
 
 The [latest post](/converting-rollernet-to-one-standard-events-reader) was dedicated to show a way to convert the raw data provided by [Rollernet dataset](http://crawdad.org/upmc/rollernet/20090202/) into a format which can be read by [ONE simulator](https://www.netlab.tkk.fi/tutkimus/dtn/theone/). In this post, this standard format will be shown in more detail.
 
-ONE simulator provides a class which read external events for a standard format. This class is named **StandardEventsReader** and is located into *input* package. According to [documentation](https://www.netlab.tkk.fi/tutkimus/dtn/theone/javadoc/input/StandardEventsReader.html) the syntax for this standard format has the following general syntax:
+ONE simulator provides a class which read external events for a standard format. This class is named **StandardEventsReader** and is located into *input* package. According to the [documentation](https://www.netlab.tkk.fi/tutkimus/dtn/theone/javadoc/input/StandardEventsReader.html) the syntax for this standard format has the following general syntax:
 
     <time> <actionId> <msgId> <hostId> [<host2Id> [<size>] [<respSize>]]
 
-As can be seen above, the first column represents the time at which the event occurred and its understanding is trivial. The actionId column represents what event is taking place and there are 7 possible events, listed below.
+As can be seen above, the first column describes the time at which the event occurred and its understanding is trivial. The actionId column describes what event is taking place and there are 7 possible events, listed below.
 
 ## Connection (CONN)
 The connection event has a simplified syntax:
