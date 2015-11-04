@@ -5,15 +5,34 @@ author: juliano
 
 Hi all, how are you?
 
-[Matplotlib](http://matplotlib.org/) is [python](http://python.org/) plotting library and a very useful tool for researchers. You can use it to generate all desireg graphs using only one command in order to make results evaluation quicker and easier.
+[Matplotlib](http://matplotlib.org/) is [python](http://python.org/) plotting library and a very useful tool for researchers. You can use it to generate all desired graphs using only one command in order to make results evaluation quicker and easier.
 
-Since version 1.4, Matplotlib provide support to cutomize graphs through the **style** package.  You can check the default styles through the command:
+Since version 1.4, Matplotlib provides support to customize graphs through the **style** package.  You can check the default styles through the command:
 
 {% highlight python %}
 from matplotlib import pyplot as plt
 print (plt.style.available)
 
-['seaborn-whitegrid', 'seaborn-white', 'grayscale', 'seaborn-muted', 'seaborn-colorblind', 'seaborn-paper', 'dark_background', 'ggplot', 'classic', 'seaborn-darkgrid', 'seaborn-ticks', 'seaborn-bright', 'seaborn-notebook', 'seaborn-pastel', 'seaborn-talk', 'seaborn-poster', 'bmh', 'seaborn-dark-palette', 'fivethirtyeight', 'seaborn-dark', 'seaborn-deep']
+[ 'seaborn-whitegrid', 
+  'seaborn-white', 
+  'grayscale', 
+  'seaborn-muted', 
+  'seaborn-colorblind', 
+  'seaborn-paper', 
+  'dark_background', 
+  'ggplot', 'classic', 
+  'seaborn-darkgrid', 
+  'seaborn-ticks', 
+  'seaborn-bright', 
+  'seaborn-notebook', 
+  'seaborn-pastel', 
+  'seaborn-talk', 
+  'seaborn-poster', 
+  'bmh', 
+  'seaborn-dark-palette', 
+  'fivethirtyeight', 
+  'seaborn-dark',  
+  'seaborn-deep']
 {% endhighlight %}
 
 As I searched for a "palette" of these styles and I did not found, I decided to test them and post the result here. It might be useful and help any of you decide which style use in your plots.
