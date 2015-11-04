@@ -5,7 +5,7 @@ author: juliano
 
 Hi all, how are you?
 
-[Matplotlib](http://matplotlib.org/) is [python](http://python.org/) plotting library and a very useful tool for researchers. You can use it to generate all desired graphs using only one command in order to make results evaluation quicker and easier.
+[Matplotlib](http://matplotlib.org/) is a [python](http://python.org/) plotting library and a very useful tool for researchers. You can use it to generate all desired graphs using only one command in order to make results evaluation quicker and easier.
 
 Since version 1.4, Matplotlib provides support to customize graphs through the **style** package.  You can check the default styles through the command:
 
