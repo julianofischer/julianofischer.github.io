@@ -5,7 +5,7 @@ author: juliano
 
 Hi all, how are you?
 
-Let's starts the series of posts about data traces reviewing the [Rollernet](http://www-rp.lip6.fr/rollernet/en/index.html).
+Lets start the series of posts about data traces by reviewing the [Rollernet](http://www-rp.lip6.fr/rollernet/en/index.html).
 
 Rollernet is a project whose the origin was in the [LIP6 lab](http://www.lip6.fr/) at the Université Pierre et Marie Curie. The project proposes to study the mobility of rollerblading tours participants. During the experiment 62 iMotes (an iMote is a device with storage and processing capabilities, equipped with a Bluetooth radio) were distributed to group of people in order to collect opportunistic sighting of other Bluetooth devices (including the other iMotes).
 

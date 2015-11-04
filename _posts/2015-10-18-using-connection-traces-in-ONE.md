@@ -76,9 +76,9 @@ For matter of readability, and [readability counts](https://www.python.org/dev/p
 
 The last **mandatory** step is to set up where the ExternalEventsQueue should look for your event file.
 
-    Events2.filePath = dir/to/my/file/my_file_name.txt
+    Events2.filePath = myfilename.txt
+	
 
----
 #### Observations about settings
 ---
 
@@ -103,10 +103,6 @@ This is a mandatory setting. In this case, I set up it as following:
 - #### ExternalEventsQueue
 
 It seems there is a bug in ExternalEventsQueue. For more information, please refer to the mail sent to the mailing list by Mr. Alexej Ismailov, at March 16, 2015.
-
----
-
-___
 
 I hope I have helped you in some way. Thank you very much for your attention!
 
