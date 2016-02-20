@@ -97,7 +97,7 @@ for l in list:
     init_time = int(l[2]) - initial_time
     end_time = int(l[3]) - initial_time
 
-    if init_time <= 61 and end_time <= 61:
+    if from_node <= 61 and to_node <= 61:
         connection_beginning = [str(init_time), 
                                 "CONN", 
                                 str(from_node),
