@@ -28,7 +28,7 @@ with open('rollernet.txt') as f:
     #x.split() returns a list of strings
     #map convert all the values inside the list into integer
 
-sorted(thelist, key=lambda line : line[2])#sorting by the index number two
+thelist = sorted(thelist, key=lambda line : line[2])#sorting by the index number two
 {% endhighlight %}
 
 This snippet uses two not common features available in Python: [List Comprehensions](https://docs.python.org/2/tutorial/datastructures.html#list-comprehensions) and the [with statement](https://docs.python.org/2/reference/compound_stmts.html#the-with-statement). I suggest that those who have questions, visit the links provided.
