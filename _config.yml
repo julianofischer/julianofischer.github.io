@@ -13,7 +13,7 @@ baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
-permalink: /:title
+permalink: /:title/
 paginate: 8
 paginate_path: /page:num/
 
@@ -50,5 +50,6 @@ authors:
 gems:
     - jemoji
     - jekyll-sitemap
+    - jekyll-paginate
 
 highlighter: rouge
