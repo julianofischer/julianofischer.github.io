@@ -10,18 +10,17 @@ I followed two good references found in the web: [SorryApp](http://blog.sorryapp
 First of all, we need to store the author information somewhere. I created a dir named ***_data*** with a file named ***authors.yml***
 Following is the content of authors.yml:
 
-{% highlight yaml linenos %}
+```yaml
 juliano:
-    name: Juliano Fischer Naves
-    email: julianofischer@gmail.com
+    name: Juliano
+    email: email@email.com
     web: www.julianofischernaves.me
-    gravatar: 6c9edb3c5236bbd4535fd69a955fcee7
-{% endhighlight %}
+    gravatar: 9c6edb5c3256bbd4535fd69a955fcee7
+```
 
 Then I modified the ***_layouts/post.html***
 
-{% highlight html linenos %}
-
+```html
 {% raw %}
 {% assign author = site.data.authors[page.author] %}
 {% if author %}
@@ -31,21 +30,23 @@ Then I modified the ***_layouts/post.html***
     </div>
 
     <div style="width: 80%; float:left">
-        Written by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a> in {{ page.date | date_to_string }}.
+        Written by <a href="{{ author.web }}" target="_blank">
+                       {{ author.name }}
+                   </a> in {{ page.date | date_to_string }}.
     </div>
 {% endif %}
 {% endraw %}
-{% endhighlight %}
+```
 
 
 Finally, we need to include at the beginning of each post the author's identification:
 
-{% highlight yaml linenos %}
+```yaml
 ---
 title: Your Post Title
 author: juliano
 ---
-{% endhighlight %}
+```
 
 Well, the next step is to solve how to insert subjects for each post.
 I hope to write about it soon.
